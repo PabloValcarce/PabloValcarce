@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Proyects Design**
 
-- 👨‍💻 All of my projects are available [@PabloValcarce](github.com/PabloValcarce)
+- 👨‍💻 All of my projects are available [@PabloValcarce](https://github.com/PabloValcarce)
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -154,7 +154,7 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
-</div
+</div>
 
 <div align="center">
 <h2 align="center">GitHub Stats</h2>
