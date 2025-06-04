@@ -14,10 +14,6 @@
 
 - 👨‍💻 All of my projects are available [@PabloValcarce](github.com/PabloValcarce)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -161,12 +157,19 @@
 </div
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center">GitHub Stats</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PabloValcarce&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloValcarce&theme=material-palenight" />
+    </td>
+  </tr>
+</table>
 
-[![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PabloValcarce&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7)](https://github.com/PabloValcarce)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=PabloValcarce&theme=material-palenight)](https://github.com/PabloValcarce)
 </div>
 
 ----
-
