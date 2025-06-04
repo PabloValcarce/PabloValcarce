@@ -110,3 +110,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloValcarce&theme=dark&hide_border=false&langs_count=7" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloValcarce&theme=material-palenight" alt="GitHub Streak Stats"/>
 </p>
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**MyFinance**](https://github.com/PabloValcarce/MyFinance) | A mobile application for managing personal finances and budgets, featuring secure cloud synchronization and a user-friendly interface. | React Native · Expo · TypeScript · Python · Flask · PostgreSQL |
+| [**MelDaColmeaFront**](https://github.com/PabloValcarce/MelDaColmeaFront) | Online honey shop frontend for a local business. Currently under development. | Spring Boot · Java · HTML · CSS · TypeScript · Angular |
+
+
