@@ -169,8 +169,4 @@
 </div>
 
 ----
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/PabloValcarce/PabloValcarce/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
